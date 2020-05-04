@@ -1,0 +1,1 @@
+{"version":3,"sources":["C:/react/react_add-todo-form/src/App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,WACE,UACF,CAEA,KACE,SAAU,CACV,kBACF","file":"main.ea25b34c.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.selectbox {\n  width: 100%;\n}\n\n.btn {\n  width: 20%;\n  margin: 15px 0 50px;\n}\n"]}
